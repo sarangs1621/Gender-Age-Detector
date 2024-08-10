@@ -76,13 +76,24 @@ The performance of the Gender Age Detector was evaluated using a benchmark datas
 
 The confusion matrix below shows the accuracy of gender predictions made by the model.
 
-![Confusion Matrix for Gender Prediction](link-to-image)
+![Confusion Matrix for Gender Prediction]
 
 #### Age Group Distribution
 
 The bar chart below compares the distribution of predicted age groups against the true age groups.
 
-![True vs Predicted Age Group Distribution](link-to-image)
+![True vs Predicted Age Group Distribution]
+
+# Defining Age Classes
+People in certain age groups tend to look similar. Look at this exhibit..
+
+First age class 1–2 has subjects having growing teeth, hairs, generally speaking
+For 3–9, the facial features start to grow
+For 10–20, subjects start to look more mature
+21–27 age class is of mature adults. Likewise for 28–45 age class
+46–65 would have more loud aging features
+And the last class, 66–116 have grey hairs, aging skin, etc.
+Of course I am over generalizing here. But, this is a close approximation of how similarities could be drawn on subjects in various stages of their life. And this is how data scientists think, when they are in the process of building an ML model from scratch.
 
 ### Example Code for Generating Metrics and Graphs
 
