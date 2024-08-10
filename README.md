@@ -70,22 +70,10 @@ The performance of the Gender Age Detector was evaluated using a benchmark datas
 - **Gender Prediction Accuracy:** 90%
 - **Age Prediction Accuracy:** 85%
 
-### Visualizations
-
-#### Confusion Matrix
-
-The confusion matrix below shows the accuracy of gender predictions made by the model.
-
-![Confusion Matrix for Gender Prediction]
-
-#### Age Group Distribution
-
-The bar chart below compares the distribution of predicted age groups against the true age groups.
-
-![True vs Predicted Age Group Distribution]
-
 # Defining Age Classes
 People in certain age groups tend to look similar. Look at this exhibit..
+
+![screenshot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*pHHfFd84cAxI4_uA1i8QtQ.png)
 
 First age class 1–2 has subjects having growing teeth, hairs, generally speaking
 For 3–9, the facial features start to grow
