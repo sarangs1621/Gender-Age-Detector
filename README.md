@@ -134,8 +134,4 @@ plt.show()
 
 We welcome contributions to improve the Gender Age Detector project! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
